@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Sam from Guangzhou, China.
+
+- 🔭 I’m currently working on backend development
+- 🤔 I’m currently learning how to optimize server performance
+
 <!--
 **cfkka/cfkka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
